@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+[![Phaggio's github stats](https://github-readme-stats.vercel.app/api?username=phaggio&&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=9587ed&icon_color=ffbd39&text_color=216583)](https://github.com/phaggio/github-readme-stats)
 
-[![Phaggio's github stats](https://github-readme-stats.vercel.app/api?username=phaggio&&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=65c0ba&icon_color=ffbd39&text_color=216583)](https://github.com/phaggio/github-readme-stats)
-
+- 📖 Libaries & Framework - React, Express, Mongoose, Bootstrap, jQuery
+- 💻 Languages - JavaScript, TypeScript, SQL, HTML, CSS
+- 🛠 Tools - GitHub, Node.js, NPM, MySQL, MongoDB
 
 <!--
 **phaggio/phaggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
