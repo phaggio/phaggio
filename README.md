@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Evelyn's github stats](https://github-readme-stats.vercel.app/api?username=phaggio&&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=65c0ba&icon_color=ffbd39&text_color=216583)](https://github.com/phaggio/github-readme-stats)
+[![Phaggio's github stats](https://github-readme-stats.vercel.app/api?username=phaggio&&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=65c0ba&icon_color=ffbd39&text_color=216583)](https://github.com/phaggio/github-readme-stats)
 
 
 <!--
