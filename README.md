@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Phaggio's github stats](https://github-readme-stats.vercel.app/api?username=phaggio&&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=9587ed&icon_color=ffbd39&text_color=216583)](https://github.com/phaggio/github-readme-stats)
+![Phaggio's github stats](https://github-readme-stats.vercel.app/api?username=phaggio&&show_icons=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phaggio&layout=compact)](https://github.com/phaggio/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phaggio&layout=compact)
 
 
 - 📖 Libaries & Framework - React, Express, Mongoose, Bootstrap, jQuery
