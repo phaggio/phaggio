@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 [![Phaggio's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=phaggio)](https://github.com/phaggio/phaggio)
-[![Phaggio's GitHub stats](https://github-readme-stats.vercel.app/api?username=phaggio)](https://github.com/phaggio/phaggio)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phaggio&layout=compact)
+[![Phaggio's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=phaggio)](https://github.com/phaggio/phaggio)
 
 
 - 📖 Libaries & Framework - React, Express, Mongoose, Bootstrap, jQuery
-- 💻 Languages - JavaScript, TypeScript, SQL, HTML, CSS
+- 💻 Languages - JavaScript, TypeScript, Java, C#, C++
 - 🛠 Tools - GitHub, Node.js, NPM, MySQL, MongoDB
 
 <!--
