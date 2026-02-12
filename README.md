@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Phaggio's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=phaggio)](https://github.com/phaggio/phaggio)
+
 [![Phaggio's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=phaggio)](https://github.com/phaggio/phaggio)
 
 
