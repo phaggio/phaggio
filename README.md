@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<!--
 [![Phaggio's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=phaggio&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/phaggio/phaggio)
-
+-->
+[![Phaggio's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=phaggio)](https://github.com/phaggio/phaggio)
 [![Phaggio's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=phaggio&langs_count=5)](https://github.com/phaggio/phaggio)
 
 
