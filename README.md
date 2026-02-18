@@ -4,7 +4,7 @@
 
 [![Phaggio's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=phaggio&langs_count=5)](https://github.com/phaggio/phaggio)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phaggio&layout=donut-vertical)](https://github.com/phaggio/phaggio)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=phaggio&layout=donut-vertical)](https://github.com/phaggio/phaggio)
 
 
 - 📖 Libaries & Framework - React, Express, Mongoose, Bootstrap, jQuery
